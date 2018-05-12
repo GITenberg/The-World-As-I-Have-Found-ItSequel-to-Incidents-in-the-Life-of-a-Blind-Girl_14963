@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5758'
     url: http://www.gutenberg.org/2009/agents/5758
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14963#The-World-As-I-Have-Found-ItSequel-to-Incidents-in-the-Life-of-a-Blind-Girl
 gutenberg_issued: '2005-02-07'
 gutenberg_type: Text
 identifiers:
