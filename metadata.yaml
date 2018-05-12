@@ -1,0 +1,29 @@
+_repo: The-World-As-I-Have-Found-ItSequel-to-Incidents-in-the-Life-of-a-Blind-Girl_14963
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Day, Mary L.
+    alias: Arms, Mary L. Day
+    birthdate: 1836
+    gutenberg_agent_id: '5758'
+    url: http://www.gutenberg.org/2009/agents/5758
+description: ''
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blind -- Biography'
+- !lcsh 'Day, Mary L., 1836-'
+- !lcc 'HV'
+title: 'The World As I Have Found It
+
+  Sequel to Incidents in the Life of a Blind Girl'
+url: http://www.gutenberg.org/ebooks/14963
